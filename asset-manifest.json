@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/All-friends/static/css/main.cfc4900b.chunk.css",
-    "main.js": "/All-friends/static/js/main.3cbed5fb.chunk.js",
-    "main.js.map": "/All-friends/static/js/main.3cbed5fb.chunk.js.map",
+    "main.js": "/All-friends/static/js/main.38a2f733.chunk.js",
+    "main.js.map": "/All-friends/static/js/main.38a2f733.chunk.js.map",
     "runtime-main.js": "/All-friends/static/js/runtime-main.f84bcc6d.js",
     "runtime-main.js.map": "/All-friends/static/js/runtime-main.f84bcc6d.js.map",
     "static/css/2.11829350.chunk.css": "/All-friends/static/css/2.11829350.chunk.css",
     "static/js/2.a0e717f3.chunk.js": "/All-friends/static/js/2.a0e717f3.chunk.js",
     "static/js/2.a0e717f3.chunk.js.map": "/All-friends/static/js/2.a0e717f3.chunk.js.map",
     "index.html": "/All-friends/index.html",
-    "precache-manifest.17d80bfd8051cc93c7ca2b198f87ddef.js": "/All-friends/precache-manifest.17d80bfd8051cc93c7ca2b198f87ddef.js",
+    "precache-manifest.6b52ac401d4460c587ca31f3ef38b7bf.js": "/All-friends/precache-manifest.6b52ac401d4460c587ca31f3ef38b7bf.js",
     "service-worker.js": "/All-friends/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/All-friends/static/css/2.11829350.chunk.css.map",
     "static/css/main.cfc4900b.chunk.css.map": "/All-friends/static/css/main.cfc4900b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.a0e717f3.chunk.js",
     "static/css/main.cfc4900b.chunk.css",
-    "static/js/main.3cbed5fb.chunk.js"
+    "static/js/main.38a2f733.chunk.js"
   ]
 }
