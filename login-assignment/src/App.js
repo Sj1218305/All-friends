@@ -8,9 +8,12 @@ import SignUp from "./components/signup.component";
 
 function App() {
   return (<Router>
-    <div className="App">
-      <nav className="navbar navbar-expand-lg navbar-light fixed-top">
+     <div className="App">
+    <nav className="navbar navbar-expand-lg navbar-light fixed-top">
         <div className="container">
+        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+        <span className="navbar-toggler-icon"></span>
+       </button>
           <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
@@ -23,7 +26,6 @@ function App() {
           </div>
         </div>
       </nav>
-      
       <div className="auth-wrapper">
         <div className="auth-inner">
           <Switch>
@@ -38,3 +40,7 @@ function App() {
 }
 
 export default App;
+
+
+
+
